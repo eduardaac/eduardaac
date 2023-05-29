@@ -1,5 +1,9 @@
-### Hi there 👋
-
+##### SOBRE MIM
+##### Graduanda do 3º período de Ciências Exatas/Ciências da Computação na UFJF.
+##### Tenho habilidade com trabalho em equipe, sou participativa e dedicada.
+##### Sou técnica em informática pelo CEFET-MG.
+##
+##
 <!--
 **eduardaac/eduardaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
