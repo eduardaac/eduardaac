@@ -1,20 +1,12 @@
-##### SOBRE MIM
-##### Graduanda do 3º período de Ciências Exatas/Ciências da Computação na UFJF.
-##### Tenho habilidade com trabalho em equipe, sou participativa e dedicada.
-##### Sou técnica em informática pelo CEFET-MG.
-##
-##
-<!--
-**eduardaac/eduardaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, meu nome é <a style="text-decoration: none; text-color: unset; text-underline-position: none;" href="https://github.com/eduardaac">Eduarda</a>! 👋
 
-Here are some ideas to get you started:
+- 🔍 Buscando desenvolvimento pessoal e profisisonal!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+Graduanda de Ciências Exatas\ Ciências da Computação na UFJF. Formada em técnico em informática pelo CEFET-MG. Tenho habilidade com trabalho em equipe, sou participativa e dedicada.
+
+## Projetos Acadêmicos
+- Visual Glasses: Responsável por implementar melhorias e também o carregamento por indução aos óculos.
+- APPHIV: Responsável por desenvolver um aplicativo utilizando Android Studio e MySQL.
+- Minha Tarifa Branca: Responsável pelo desenvolvimento do sistema web, utilizando React Native e NodeJs.
+- DECORA: Responsável pelo desenvolvimento web, utilizando ReactJS, NodeJs e MongoDB.
